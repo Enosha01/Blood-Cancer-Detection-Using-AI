@@ -8,7 +8,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/blood-cancer-detection.git
+    git clone https://github.com/Enosha01/Blood-Cancer-Detection-Using-AI.git
     cd blood-cancer-detection
     ```
 
