@@ -93,7 +93,7 @@ To deploy the application, use the `app.py` script. It sets up a web server to s
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License..
 
 ## Contact
 For any questions or inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
